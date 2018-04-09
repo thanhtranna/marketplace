@@ -1,5 +1,5 @@
-# marketplace#
-Marketplace Project
+# Marketplace
+Marketplace Project using Node.js, MongoDB, Express.js, Socket.io.
 
 ## Requirements
 
